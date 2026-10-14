@@ -1,0 +1,2 @@
+# premium-key-way-001-keyway-broaching-shaft-slot
+Tired of losing critical keyway dimensions and broaching specs across scattered notes and spreadsheets? Stop the chaos and bring every shaft slot project into one precision-organized hub.  This Notion template centralizes all your keyway broaching and shaft slot metal craft data—from measurements and tolerances to material specs and project status.
